@@ -1,7 +1,9 @@
 # vid2frameXtractor
 
  This python application aims to extract video frames from a video mp4 and convert it into a .pdf. 
+ 
  Some data displayed are the frames themselves, timestamps and frames amount. 
+ 
  It is used for frames study in animation. 
   
   
@@ -13,5 +15,6 @@
  3rd Party Tools Used: 
   
  wkhtmltopdf: https://wkhtmltopdf.org/downloads.html 
+ 
  PySceneDetect: https://scenedetect.com/en/latest/download/
  
